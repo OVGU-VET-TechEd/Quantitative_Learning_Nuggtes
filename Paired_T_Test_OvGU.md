@@ -56,11 +56,13 @@ By the end of this nugget, you will be able to:
 The paired t-test is one of the simplest statistical tests used to compare the means of two related groups or measurements. It evaluates whether there is a statistically significant difference between paired observations, such as pre-test and post-test measurements on the same subjects, or measurements under two different conditions on the same participants.
 
 **When to use:** The paired t-test is appropriate when you have two related measurements and want to test if their means differ significantly. Common scenarios include:
+
 - Before and after treatment measurements on the same subjects
 - Measurements under two different conditions on the same participants
 - Matched pairs of subjects (e.g., twins, siblings, or matched controls)
 
 **Key assumptions:** 
+
 1. **Normality**: The differences between paired observations should be approximately normally distributed
 2. **Independence**: Each pair of observations should be independent of other pairs
 3. **Continuous data**: Both variables should be measured at interval or ratio level
@@ -415,6 +417,7 @@ If a paired t-test yields t(24) = -3.45, p = 0.002, what can we conclude?
 **Coming Up:** Two-Sample t-Test for Independent Groups
 
 **Preparation:**
+
 - Review: Difference between dependent and independent samples
 - Practice: Identifying appropriate statistical tests for different research designs
 - Install: Additional R packages for independent samples analysis (`car`, `Hmisc`)
