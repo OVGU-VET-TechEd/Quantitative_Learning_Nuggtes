@@ -312,12 +312,14 @@ Based on our analysis of the smoking cessation intervention:
 
 1. **Sample Description**: We analyzed data from 30 participants who completed both pre- and post-intervention measurements.
 
-2. **Assumption Checking**: 
+2. **Assumption Checking**:
+
    - The Shapiro-Wilk test indicates whether the difference scores are normally distributed (p > 0.05 suggests normality is met)
    - Visual inspection of the Q-Q plot should show points approximately following the diagonal line
    - No extreme outliers were detected that would compromise the analysis
 
-3. **Main Results**: 
+3. **Main Results**:
+
    - **Mean difference**: Participants smoked an average of 6.1 fewer cigarettes per week after the intervention
    - **Statistical significance**: The paired t-test yielded t(29) = 8.245, p < 0.001
    - **Confidence interval**: We are 95% confident that the true reduction lies between 4.52 and 7.68 cigarettes per week
@@ -370,6 +372,7 @@ If a paired t-test yields t(24) = -3.45, p = 0.002, what can we conclude?
 **Task:** You have been given a dataset examining the effectiveness of a memory training program. The dataset contains pre-training and post-training memory test scores for 20 participants.
 
 **Instructions:**
+
 1. Load the provided dataset and conduct appropriate descriptive analysis
 2. Check all assumptions for a paired t-test and document your findings
 3. Perform the paired t-test and calculate the effect size
@@ -378,6 +381,7 @@ If a paired t-test yields t(24) = -3.45, p = 0.002, what can we conclude?
 **Expected Result:** A comprehensive analysis report that includes assumption checking, test results, effect size, and professional interpretation suitable for a research paper.
 
 **Dataset Variables:**
+
 - `participant_id`: Unique identifier for each participant
 - `pre_training_score`: Memory test score before training (0-100 scale)
 - `post_training_score`: Memory test score after training (0-100 scale)
