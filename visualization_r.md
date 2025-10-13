@@ -4,17 +4,11 @@
 
 > **Learning Objectives:**  
 > By the end of this learning nugget, you will be able to:
-> 
 > - Understand which visualizations match which analysis methods
-> - 
 > - Create professional publication-ready plots in R
-> - 
 > - Customize visualizations for different audiences
-> - 
 > - Export high-quality graphics for reports and presentations
-> - 
 > - Choose between base R and ggplot2 for your needs
-> - 
 > - Apply best practices for clear scientific communication
 
 ---
