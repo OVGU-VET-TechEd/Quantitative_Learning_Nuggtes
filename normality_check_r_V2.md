@@ -2,7 +2,8 @@
 
 ## 📊 Introduction to Normality Testing
 
-> **Learning Objectives:**  
+> **Learning Objectives:**
+> 
 > By the end of this learning nugget, you will be able to:
 > - Understand why normality testing matters in research
 > - Visually assess normality using histograms and boxplots
@@ -928,5 +929,6 @@ Use parametric  Use non-parametric
 Contact the teaching team:
 - **Hannes Tegelbeckers:** hannes.tegelbeckers@ovgu.de
 - **Office Hours:** https://cloud.ovgu.de/call/ciz2te64
+
 
 **Remember:** Checking normality is a crucial step in quantitative research. Take your time, use multiple methods, and always prioritize visual assessment!
