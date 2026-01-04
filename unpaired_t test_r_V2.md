@@ -2,8 +2,10 @@
 
 ## 🔬 Introduction to the Unpaired t-Test
 
-> **Learning Objectives:**  
+> **Learning Objectives:**
+ 
 > By the end of this learning nugget, you will be able to:
+
 > - Understand when to use an unpaired t-test
 > - Check prerequisites for conducting a t-test
 > - Perform an unpaired t-test in R
@@ -622,5 +624,6 @@ t-test     t-test
 Contact the teaching team:
 - **Hannes Tegelbeckers:** hannes.tegelbeckers@ovgu.de
 - **Office Hours:** https://cloud.ovgu.de/call/ciz2te64
+
 
 **Remember:** The t-test is one of the most fundamental tools in quantitative research. Master it well, and you'll have a solid foundation for more advanced analyses!
